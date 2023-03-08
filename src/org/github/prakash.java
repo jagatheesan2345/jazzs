@@ -14,5 +14,10 @@ public class prakash {
 	System.out.println("hai jagatheesan");
 
 	}
+	private void daya() 
+	{
+		System.out.println("eswari brikes:");
+
+	}
 
 }
